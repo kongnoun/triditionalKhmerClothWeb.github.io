@@ -16,7 +16,7 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url('image/bg.jpg');
+    background-image: url('Image/bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -287,7 +287,7 @@ header {
 
     body {
         min-width: 100vw;
-        background-image: url('image/bg.jpg');
+        background-image: url('Image/bg.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover; /* This will scale the background image to be as large as possible */
@@ -445,7 +445,7 @@ header {
 
     body {
         max-width: 195vw;
-        background-image: url('image/bg.jpg');
+        background-image: url('Image/bg.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover; /* This will scale the background image to be as large as possible */
@@ -592,7 +592,7 @@ header {
     }
 
     body {
-        background-image: url('image/bg.jpg');
+        background-image: url('Image/bg.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover; /* This will scale the background image to be as large as possible */
